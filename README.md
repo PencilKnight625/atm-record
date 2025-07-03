@@ -25,5 +25,4 @@ User actions are saved in a file named like account_10001.txt, storing:
 Name, PIN, balance, and full transaction history
 
 # How to Run
-bash
 g++ main.cpp -o atm
