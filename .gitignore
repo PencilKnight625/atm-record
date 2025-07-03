@@ -1,0 +1,7 @@
+*.exe
+*.out
+*.o
+*.gch
+*.swp
+*.bak
+.DS_Store
